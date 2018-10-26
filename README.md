@@ -19,7 +19,7 @@ You must be using `react-router` v4.4.0 or greater. At time of publication, you 
 * `yarn add use-react-router`
 
 ## Use
-Import `useReactRouter` and use it like as a React Hook.
+Import `useReactRouter` and use it as a React Hook.
 
 ```JavaScript
 import useReactRouter from 'use-react-router';
