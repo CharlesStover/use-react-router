@@ -1,5 +1,5 @@
 // @ts-ignore
-import { useContext, useEffect, useState } from 'react';
+import { useContext, useEffect } from 'react';
 
 // @ts-ignore
 import { __RouterContext, RouteComponentProps } from 'react-router';
