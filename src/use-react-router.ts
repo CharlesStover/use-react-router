@@ -13,9 +13,9 @@ interface VoidFunction {
   (): void;
 }
 
-const useRouter: UseRouter = (): RouteComponentProps<{}> => {
+const useRouter: UseRouter = <T = {}>(): RouteComponentProps<T> => {
   const forceUpdate: VoidFunction = useForceUpdate();
-  const routerContext: RouteComponentProps<{}> = useContext(__RouterContext);
+  const routerContext: RouteComponentProps<T> = useContext(__RouterContext);
   useEffect(
     (): VoidFunction =>
       routerContext.history.listen(forceUpdate),
