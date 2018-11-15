@@ -6,7 +6,7 @@ import { __RouterContext, RouteComponentProps } from 'react-router';
 import useForceUpdate from 'use-force-update';
 
 interface UseRouter {
-  (): RouteComponentProps<{}>;
+  <T = {}>(): RouteComponentProps<T>;
 }
 
 interface VoidFunction {
