@@ -1,4 +1,4 @@
-# use-react-router [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Want%20to%20use%20react-router%20with%20Hooks?%20Now%20you%20can%20with%20use-react-router!&url=https://github.com/CharlesStover/use-react-router&via=CharlesStover&hashtags=react,reactjs,javascript,typescript,webdev,webdeveloper,webdevelopment)
+# useReactRouter [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Want%20to%20use%20react-router%20with%20Hooks?%20Now%20you%20can%20with%20use-react-router!&url=https://github.com/CharlesStover/use-react-router&via=CharlesStover&hashtags=react,reactjs,javascript,typescript,webdev,webdeveloper,webdevelopment)
 
 `useReactRouter` is a React Hook that provides pub-sub behavior for `react-router`.
 Unlike the `withRouter` Higher-Order Component, `useReactRouter` will re-render your component when the location changes!
