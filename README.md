@@ -5,7 +5,7 @@ Unlike the `withRouter` Higher-Order Component, `useReactRouter` will re-render 
 
 `useReactRouter()` returns the an object that contains the `history`, `location`, and `match` properties that would be passed as props by the HOC.
 
-[![package](https://img.shields.io/github/package-json/v/CharlesStover/use-react-router.svg)](https://www.npmjs.com/package/use-react-router)
+[![package](https://img.shields.io/npm/v/use-react-router.svg)](https://www.npmjs.com/package/use-react-router)
 [![minified size](https://img.shields.io/bundlephobia/min/use-react-router.svg)](https://www.npmjs.com/package/use-react-router)
 [![minzipped size](https://img.shields.io/bundlephobia/minzip/use-react-router.svg)](https://www.npmjs.com/package/use-react-router)
 
