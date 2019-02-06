@@ -7,10 +7,11 @@ Unlike the `withRouter` Higher-Order Component, `useReactRouter` will re-render 
 
 A tutorial covering the design and development of this package can be found on Medium: [How to Convert withRouter to a React Hook](https://medium.com/@Charles_Stover/how-to-convert-withrouter-to-a-react-hook-19bb02a29ed6).
 
-[![package](https://img.shields.io/npm/v/use-react-router.svg)](https://www.npmjs.com/package/use-react-router)
-[![build](https://api.travis-ci.com/CharlesStover/use-react-router.svg)](https://travis-ci.com/CharlesStover/use-react-router/)
+[![version](https://img.shields.io/npm/v/use-react-router.svg)](https://www.npmjs.com/package/use-react-router)
 [![minified size](https://img.shields.io/bundlephobia/min/use-react-router.svg)](https://www.npmjs.com/package/use-react-router)
 [![minzipped size](https://img.shields.io/bundlephobia/minzip/use-react-router.svg)](https://www.npmjs.com/package/use-react-router)
+[![downloads](https://img.shields.io/npm/dt/use-react-router.svg)](https://www.npmjs.com/package/use-react-router)
+[![build](https://api.travis-ci.com/CharlesStover/use-react-router.svg)](https://travis-ci.com/CharlesStover/use-react-router/)
 
 ## Why Pub-Sub?
 
