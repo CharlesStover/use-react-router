@@ -194,9 +194,10 @@ ua-parser-js@^0.7.18:
   version "0.7.19"
   resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.19.tgz#94151be4c0a7fb1d001af7022fdaca4642659e4b"
 
-use-force-update@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/use-force-update/-/use-force-update-1.0.0.tgz#8b4c3893575b8246a2d9c785a9921572db50e182"
+use-force-update@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/use-force-update/-/use-force-update-1.0.4.tgz#7e9b55b32b7eb947a2187e5c87e047c7f6c4481b"
+  integrity sha512-/tF1kH4p4KwuJeA9De0hzPXi48JTk9fEwlBnZ8fUOTcDYwKuLiMPVOFrN0RzbcKLgcVog/74kTRCiHfu93ju+g==
 
 value-equal@^0.4.0:
   version "0.4.0"
