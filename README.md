@@ -23,7 +23,7 @@ A non-pub-sub React Hook is anticipated to eventually be included in the `react-
 
 ## Install
 
-**You must be using `react-router` and `react-router-dom` v4.4.0 or greater.**
+**You must be using `react-router` and `react-router-dom` v5.0.0 or greater.**
 
 * `npm install use-react-router` or
 * `yarn add use-react-router`
