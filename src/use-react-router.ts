@@ -17,7 +17,7 @@ const useRouter: UseRouter = <T = {}>(): RouteComponentProps<T> => {
   const forceUpdate: VoidFunction = useForceUpdate();
   const routerContext: RouteComponentProps<T> = useContext(__RouterContext);
   if (!routerContext) {
-    throw new Error('use-react-router may only be used within a react-router context.');
+    throw new Error('use-react-router may only be used with react-router@^5.');
   }
   useEffect(
     (): VoidFunction =>
