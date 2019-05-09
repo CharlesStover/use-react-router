@@ -6,6 +6,7 @@
   "homepage": "https://github.com/CharlesStover/use-react-router#readme",
   "license": "MIT",
   "main": "use-react-router.js",
+  "types": "use-react-router.d.ts",
   "repository": "https://github.com/CharlesStover/use-react-router.git",
   "bugs": {
     "url": "https://github.com/CharlesStover/use-react-router/issues"
