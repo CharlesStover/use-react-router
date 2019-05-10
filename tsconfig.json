@@ -2,7 +2,7 @@
   "compilerOptions": {
     "declaration": true,
     "downlevelIteration": true,
-    "lib": [ "dom", "es5", "es2015.promise", "scripthost" ],
+    "lib": [ "dom", "es5", "es2015", "scripthost" ],
     "module": "commonjs",
     "moduleResolution": "Node",
     "noFallthroughCasesInSwitch": true,
