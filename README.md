@@ -1,4 +1,8 @@
-# useReactRouter [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Want%20to%20use%20react-router%20with%20Hooks?%20Now%20you%20can%20with%20use-react-router!&url=https://github.com/CharlesStover/use-react-router&via=CharlesStover&hashtags=react,reactjs,javascript,typescript,webdev,webdeveloper,webdevelopment) [![version](https://img.shields.io/npm/v/use-react-router.svg)](https://www.npmjs.com/package/use-react-router) [![minzipped size](https://img.shields.io/bundlephobia/minzip/use-react-router.svg)](https://www.npmjs.com/package/use-react-router) [![downloads](https://img.shields.io/npm/dt/use-react-router.svg)](https://www.npmjs.com/package/use-react-router) [![build](https://api.travis-ci.com/CharlesStover/use-react-router.svg)](https://travis-ci.com/CharlesStover/use-react-router/)
+# useReactRouter
+
+[![version](https://img.shields.io/npm/v/use-react-router.svg)](https://www.npmjs.com/package/use-react-router)
+[![downloads](https://img.shields.io/npm/dt/use-react-router.svg)](https://www.npmjs.com/package/use-react-router)
+[![minzipped size](https://img.shields.io/bundlephobia/minzip/use-react-router.svg)](https://www.npmjs.com/package/use-react-router)
 
 `useReactRouter` is a React Hook that provides pub-sub behavior for `react-router`.
 Unlike the `withRouter` Higher-Order Component, `useReactRouter` will re-render your component when the location changes!
@@ -37,11 +41,4 @@ const MyPath = () => {
     </div>
   );
 };
-
 ```
-
-## Sponsor 💗
-
-If you are a fan of this project, you may
-[become a sponsor](https://github.com/sponsors/CharlesStover)
-via GitHub's Sponsors Program.
